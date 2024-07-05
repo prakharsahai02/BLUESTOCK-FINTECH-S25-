@@ -22,36 +22,42 @@ price (CMP), and current return. Additionally, it will include downloadable RHP 
 <b>Software Requirements</b>
 
   Backend:
-   SDK: Python (Version 3.12.3)
-   Framework: Django (Version 5.0.6) - `pip install Django`
-   API: Django REST Framework (Version 3.15.1) - `pip install djangorestframework`
-   Tools: Postman for API testing, Git & GitHub for version control
+  <ul> 
+   <li> SDK: Python (Version 3.12.3)</li>
+   <li>Framework: Django (Version 5.0.6) - `pip install Django`</li>
+   <li>API: Django REST Framework (Version 3.15.1) - `pip install djangorestframework`</li>
+   <li>Tools: Postman for API testing, Git & GitHub for version control</li>
+  </ul>
   
   Frontend:
-   Technologies: HTML, CSS, plain JavaScript (no NodeJS)
-   Framework: Bootstrap 5 (via CDN link)
-   Database: PostgreSQL
-   IDE: Visual Studio Code (VS Code)
+  Technologies: HTML, CSS, plain JavaScript (no NodeJS)
+  <ul>
+   <li>Framework: Bootstrap 5 (via CDN link)</li>
+   <li>Database: PostgreSQL</li>
+   <li>IDE: Visual Studio Code (VS Code)</li>
+   </ul>
 
   <br>
   <b>Project Features</b> 
     The IPO Web Application will provide the following information to the public:
-    - Company Logo
-    - Company Name
-    - Price Band
-    - Open Date
-    - Close Date
-    - Issue Size
-    - Issue Type
-    - Listing Date
-    - Status
-    - IPO Price
-    - Listing Price
-    - Listing Gain
-    - Current Market Price (CMP)
-    - Current Return
-    - RHP PDF
-    - DRHP PDF
+    <ul>
+      <li>Company Logo</li>
+      <li>Company Name</li>
+      <li> Price Band</li>
+      <li> Open Date</li>
+      <li> Close Date</li>
+      <li> Issue Size</li>
+      <li> Issue Type</li>
+      <li> Listing Date</li>
+      <li> Status</li>
+      <li> IPO Price</li>
+      <li> Listing Price</li>
+      <li> Listing Gain</li>
+      <li> Current Market Price (CMP)</li>
+      <li> Current Return</li>
+      <li> RHP PDF</li>
+      <li> DRHP PDF</li>
+    </ul>
     This information will be available on both the Bluestock website/app and clients' websites/apps.
 
 
