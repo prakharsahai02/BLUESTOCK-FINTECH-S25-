@@ -2,15 +2,16 @@
 This project involves developing an IPO web application and REST API for the Bluestock website/app and our clients' websites/apps.
 <br>
 Important –
-
-<b>Check UI UX Design</b>- https://www.figma.com/design/0vXJdqrcocPYCVfjSjvoRi/Bluestock-
-Website?node-id=0-1&t=mKiFI04v8vwcsGrw-1
-
-<b>Check System Design:</b> - https://www.figma.com/board/JwZqeGxFIMNoioynDtItOR/Bluestock-
-System-Design?node-id=0-1&t=5eTmpJW2C6B2Dc8B-1
-
-<b>Assets (Logo,SVG, PNG Etc) :</b>
-https://drive.google.com/drive/folders/11Q6kapopPp4tVn82QKRCX8cpHYHO5GCK?usp=drive_link
+<ul>
+ <li> <b>Check UI UX Design</b>- https://www.figma.com/design/0vXJdqrcocPYCVfjSjvoRi/Bluestock-
+  Website?node-id=0-1&t=mKiFI04v8vwcsGrw-1</li>
+  
+  <li><b>Check System Design:</b> - https://www.figma.com/board/JwZqeGxFIMNoioynDtItOR/Bluestock-
+  System-Design?node-id=0-1&t=5eTmpJW2C6B2Dc8B-1</li>
+  
+  <li><b>Assets (Logo,SVG, PNG Etc) :</b>
+  https://drive.google.com/drive/folders/11Q6kapopPp4tVn82QKRCX8cpHYHO5GCK?usp=drive_link</li>
+</ul>
 <br>
 <h3>Objective:</h3>
 Develop a web application and REST API that provides IPO-related information to the public. The
