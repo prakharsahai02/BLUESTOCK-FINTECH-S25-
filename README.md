@@ -22,7 +22,7 @@ price (CMP), and current return. Additionally, it will include downloadable RHP 
 <br>
 <b>Software Requirements</b>
 
-  Backend:
+  <b>Backend:</b>
   <ul> 
    <li> SDK: Python (Version 3.12.3)</li>
    <li>Framework: Django (Version 5.0.6) - `pip install Django`</li>
@@ -30,9 +30,10 @@ price (CMP), and current return. Additionally, it will include downloadable RHP 
    <li>Tools: Postman for API testing, Git & GitHub for version control</li>
   </ul>
   
-  Frontend:
-  Technologies: HTML, CSS, plain JavaScript (no NodeJS)
+  <b>Frontend:</b>
+  
   <ul>
+   <li>Technologies: HTML, CSS, plain JavaScript (no NodeJS)</li>
    <li>Framework: Bootstrap 5 (via CDN link)</li>
    <li>Database: PostgreSQL</li>
    <li>IDE: Visual Studio Code (VS Code)</li>
